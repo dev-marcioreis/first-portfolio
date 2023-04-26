@@ -6,7 +6,7 @@ Meu primeiro portfólio.
 
 ## 🚀 Finalizado.
 
-## 📋 Técnologias
+## 📋 Tecnologias
 HTML + CSS + JavaScript
 
 ## ✒️ Autor
